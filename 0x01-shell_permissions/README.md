@@ -1,1 +1,1 @@
-a script that sets the mode of the file to a certain sort
+ a script that sets the mode of the file hello the same as olleh’s mode
