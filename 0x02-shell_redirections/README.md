@@ -1,1 +1,1 @@
-a script that displays all users and their home directories, sorted by users
+a script that writes into the file ls_cwd_content the result of the command ls -la
